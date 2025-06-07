@@ -1,0 +1,15 @@
+google.colab
+joblib
+keras
+matplotlib.pyplot
+numpy
+pandas
+sentence_transformers
+sklearn.feature_extraction.text
+sklearn.metrics
+sklearn.metrics.pairwise
+sklearn.model_selection
+tensorflow
+tensorflow.keras
+tensorflow.keras.optimizers
+tensorflow==2.12.0
